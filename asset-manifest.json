@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/e-lite-section-3/static/css/main.6aaffb83.chunk.css",
+    "main.js": "/e-lite-section-3/static/js/main.d365a0b3.chunk.js",
+    "main.js.map": "/e-lite-section-3/static/js/main.d365a0b3.chunk.js.map",
+    "runtime-main.js": "/e-lite-section-3/static/js/runtime-main.aea5c2f9.js",
+    "runtime-main.js.map": "/e-lite-section-3/static/js/runtime-main.aea5c2f9.js.map",
+    "static/js/2.b9926c31.chunk.js": "/e-lite-section-3/static/js/2.b9926c31.chunk.js",
+    "static/js/2.b9926c31.chunk.js.map": "/e-lite-section-3/static/js/2.b9926c31.chunk.js.map",
+    "index.html": "/e-lite-section-3/index.html",
+    "precache-manifest.233ed3d959f5f1471c3a9c514fe588ae.js": "/e-lite-section-3/precache-manifest.233ed3d959f5f1471c3a9c514fe588ae.js",
+    "service-worker.js": "/e-lite-section-3/service-worker.js",
+    "static/css/main.6aaffb83.chunk.css.map": "/e-lite-section-3/static/css/main.6aaffb83.chunk.css.map",
+    "static/js/2.b9926c31.chunk.js.LICENSE.txt": "/e-lite-section-3/static/js/2.b9926c31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aea5c2f9.js",
+    "static/js/2.b9926c31.chunk.js",
+    "static/css/main.6aaffb83.chunk.css",
+    "static/js/main.d365a0b3.chunk.js"
+  ]
+}
